@@ -1,0 +1,9 @@
+[project]
+name = "minecraftlekkermodpackbuilder"
+version = "0.1.0"
+description = "An application that can help you build or maintain your own modpacks, based on what I would like in such a tool. Not to replace apps like Prismlauncher, but to cater for wanted features not provided by it."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flet>=0.28.3",
+]
